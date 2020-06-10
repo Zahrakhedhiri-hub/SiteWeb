@@ -1,0 +1,4 @@
+{
+   "jwtSecret": "sw_myJwtSecret",
+"mongoUri":"mongodb://localhost:27017/webSite"
+}
